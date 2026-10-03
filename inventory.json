@@ -1,0 +1,23 @@
+[
+  {
+    "hostname": "R1",
+    "ip": "192.168.1.1",
+    "device_type": "Cisco Router",
+    "location": "Main Office",
+    "simulated_status": "UP"
+  },
+  {
+    "hostname": "SW1",
+    "ip": "192.168.1.2",
+    "device_type": "Cisco Switch",
+    "location": "IT Room",
+    "simulated_status": "UP"
+  },
+  {
+    "hostname": "R2",
+    "ip": "192.168.1.3",
+    "device_type": "Cisco Router",
+    "location": "Branch Office",
+    "simulated_status": "DOWN"
+  }
+]
